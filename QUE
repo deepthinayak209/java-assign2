@@ -1,0 +1,5 @@
+13. Write a Java Program to create a chatting application. 
+
+
+
+16. calculate() and displayEmp() methods inside run. Similarly have Student thread with data elements studno, name, m1, m2, m3, total and percentage, getStudent(), calculate() and displayStudent() and run(). GetStudent(), calculate() and displayStudent() should be called inside run(). In an executable class create threads Emp and Student and start them. But see to it that the threads run one after the other. 
